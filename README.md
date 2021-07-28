@@ -25,6 +25,11 @@ $OUT (builds an specific output storage and transform version):
   - OUTLDS64: optLDS64 layout
 ```
 ## Run examples
+(Recommended before time measurement) Lock the clocks:
+```
+sudo nvidia-smi -i 0 -pm 1
+sudo nvidia-smi -lgc 1750 -i 0
+```
 1. OpenCNN benchmark
 ```
 cd bench
