@@ -43,7 +43,21 @@ make
 ```
 
 ## Citation
-
+If you find this tool helpful, please cite:
+```
+@Article{math9172033,
+AUTHOR = {Castro, Roberto L. and Andrade, Diego and  Fraguela, Basilio B.},
+TITLE = {OpenCNN: A Winograd Minimal Filtering Algorithm Implementation in CUDA},
+JOURNAL = {Mathematics},
+VOLUME = {9},
+YEAR = {2021},
+NUMBER = {17},
+ARTICLE-NUMBER = {2033},
+URL = {https://www.mdpi.com/2227-7390/9/17/2033},
+ISSN = {2227-7390},
+DOI = {10.3390/math9172033}
+}
+```
 ## License
 Apache-2.0 License
 
